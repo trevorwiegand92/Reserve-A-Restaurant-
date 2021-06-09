@@ -1,0 +1,24 @@
+{
+  "name": "Reserve-A-Restaurant-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trevorwiegand92/Reserve-A-Restaurant-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trevorwiegand92/Reserve-A-Restaurant-/issues"
+  },
+  "homepage": "https://github.com/trevorwiegand92/Reserve-A-Restaurant-#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
